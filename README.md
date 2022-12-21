@@ -1,2 +1,9 @@
 # Java101-CinZodyak
-Java101-ÇinZodyakHesaplama
+Java101 - Çin Zodyağı Hesaplama Programı
+
+ # *  Çin Zodyağı nedir?
+4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.
+
+ # * Çin Zodyağı nasıl hesaplanır?
+Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
+
